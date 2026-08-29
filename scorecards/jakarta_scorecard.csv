@@ -1,0 +1,10 @@
+Area,Demand,Supply,Competition,Ops_Feasibility,Regulatory_Friction,Priority_Score,Priority
+South Jakarta,5,4,5,4,3,5,High
+East Jakarta,4,5,4,5,3,7,High
+Central Jakarta,5,3,5,3,4,2,Medium
+West Jakarta,4,4,4,4,3,5,High
+North Jakarta,3,4,3,4,3,5,Medium
+Bekasi,4,5,3,5,3,8,High
+Bogor,3,4,2,3,3,5,Medium
+Depok,3,4,3,4,3,5,Medium
+Tangerang,4,4,3,5,3,7,High
